@@ -1,0 +1,2 @@
+import gpg
+gpg.xd()
